@@ -1,1 +1,1 @@
-print("Hello I am Ashutosh Kumar from LPU B.tech CSE")
+print("Hello I am Ashutosh Kumar")
